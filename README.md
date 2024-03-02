@@ -11,3 +11,9 @@
 |:------------- |:---------------:| -------------:|
 |[Анализ  поведения пользователей в мобильном приложении](https://github.com/Andrey6158/Porfolio/blob/main/Analysis_of_user_behavior_in_mobile_application.ipynb)     | Cell 5          | Cell 6        |
 | Row 3         | Cell 8          | Cell 9        |
+
+
+
+| <div style="width:290px">property</div> | description                           |
+| --------------------------------------- | ------------------------------------- |
+| `border-bottom-right-radius`            | Defines the shape of the bottom-right |
