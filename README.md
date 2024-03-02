@@ -9,7 +9,7 @@
 
 | <div style="width:29px">Проекты</div> | Center Aligned  | Right Aligned |
 |:------------- |:---------------:| -------------:|
-|[Анализ  поведения пользователей в мобильном приложении](https://github.com/Andrey6158/Porfolio/blob/main/Analysis_of_user_behavior_in_mobile_application.ipynb)     | Описаниае проекта тттт  аа  апррпооок еCell 5          | Cell 6        |
+|[Анализ  поведения пользователей в мобильном приложении](https://github.com/Andrey6158/Porfolio/blob/main/Analysis_of_user_behavior_in_mobile_application.ipynb)     | Описаниае проекта тттт  аа  апррпооок еCell 5          | Описаниае проекта тттт аа апррпооок еCell 5      |
 | Row 3         | Cell 8          | Cell 9        |
 
 
