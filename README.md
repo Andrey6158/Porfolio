@@ -16,5 +16,5 @@
 
 | Проект		| Цель проекта | Используемые библиотеки |
 |:------------- |:---------------|:-------------|
-|[Титаник. Распределение по семьям. Оценка: 81,58](https://github.com/Andrey6158/Porfolio/blob/main/titanic-distribution-by-family-score-81-58.ipynb)     | Дать предсказание по выживанию пассажиров | pandas, matplotlib, numpy, seaborn, datetime, skimpy
+|[Титаник. Распределение по семьям. Оценка: 81,58](https://github.com/Andrey6158/Porfolio/blob/main/titanic-distribution-by-family-score-81-58.ipynb)     | Дать предсказание по выживанию пассажиров | pandas, matplotlib, numpy, seaborn, datetime, skimpy, sklearn
 |[Анализ  поведения пользователей в приложении](https://github.com/Andrey6158/Porfolio/blob/main/apps_git.ipynb)     | На основе анализа поведения пользователей в мобильном приложении получить гипотезы о том, как можно было бы улучшить приложение с точки зрения пользовательского опыта      | pandas, matplotlib, numpy, seaborn, plotly
